@@ -5,7 +5,7 @@
 <p>É um serviço que tem como objetivo fornecer ao usuário uma forma simples e performática 
 de encurtar URLs longas e torná-las compactas e fáceis de compartilhar.</p>
 
-<img src="https://giphy.com/embed/33zX3zllJBGY8" width="480" height="382" />
+![]([https://giphy.com/embed/33zX3zllJBGY8])
 
 <h2>Tecnologias utilizadas: </h2>
 <ul>
@@ -20,5 +20,5 @@ de encurtar URLs longas e torná-las compactas e fáceis de compartilhar.</p>
 
 <p>Para rodar a solução só é necessário ter o docker e o docker-compose instalado! (Super simples, não?)</p>
 
-<img src="https://giphy.com/embed/3oEjI6hkw6nbYNQkz6" width="480" height="269" />
+![]([https://giphy.com/embed/3oEjI6hkw6nbYNQkz6])
 
